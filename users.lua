@@ -1,4 +1,5 @@
 return {
         "NotZWare_VC",
-        "typer_progamerspeed"
+        "typer_progamerspeed",
+        "dawyftgjhklddawda"
     }
