@@ -3,5 +3,5 @@ return {
         "typer_progamerspeed",
         "dawyftgjhklddawda",
         "SalamanderMammalton",
-        "Justtheoofy"
+        "Justheoofy"
     }
